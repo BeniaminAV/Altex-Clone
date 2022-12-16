@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Altex-Clone/static/css/main.ef778749.css",
+    "main.js": "/Altex-Clone/static/js/main.aa6b4d4f.js",
+    "static/media/slick.svg": "/Altex-Clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Altex-Clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Altex-Clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Altex-Clone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Altex-Clone/index.html",
+    "main.ef778749.css.map": "/Altex-Clone/static/css/main.ef778749.css.map",
+    "main.aa6b4d4f.js.map": "/Altex-Clone/static/js/main.aa6b4d4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef778749.css",
+    "static/js/main.aa6b4d4f.js"
+  ]
+}
